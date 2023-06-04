@@ -2,10 +2,9 @@ import "./BlogStyles.css";
 import "./ResponsiveBlog.css";
 import { PostBlog } from "./PostBlog/PostBlog";
 
-import BlogPic1 from "../../../assets/blog_image_1.svg";
-import BlogPic2 from "../../../assets/bloco_image_2.svg";
-import BlogPic3 from "../../../assets/bloco_image_3.svg";
-// import BlogPic4 from "../../../assets/bloco_image_4.svg";
+import BlogPic1 from "../../../assets/blog1.jpg";
+import BlogPic2 from "../../../assets/blog2.jpg";
+import BlogPic3 from "../../../assets/blog3.jpg";
 import ProfilePic from "../../../assets/profile.jpg";
 
 export const Blog = () => {

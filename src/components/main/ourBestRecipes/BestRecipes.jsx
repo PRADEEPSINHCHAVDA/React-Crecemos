@@ -2,10 +2,10 @@ import './BestRecipes.css'
 import './ResponsiveRecipes.css'
 import { RecipePost } from './Post/RecipePost'
 
-import PicRecipe1 from '../../../assets/comida_1.svg'
-import PicRecipe2 from '../../../assets/comida_2.svg'
-import PicRecipe3 from '../../../assets/comida_3.svg'
-import PicRecipe4 from '../../../assets/comida_4.svg'
+import PicRecipe1 from '../../../assets/service5.jpg'
+import PicRecipe2 from '../../../assets/services2.svg'
+import PicRecipe3 from '../../../assets/services2.svg'
+import PicRecipe4 from '../../../assets/service4.jpg'
 
 export const BestRecipes = () => {
     return (
@@ -29,7 +29,7 @@ export const BestRecipes = () => {
                     src={PicRecipe3}
                     alt='A imagem of a beauty Classic Potato Salad'/>
 
-                    <RecipePost title=''
+                    <RecipePost title='best '
                     src={PicRecipe4}
                     alt='A imagem of a beauty Cherry Cobbler on the Grill'/>
                 </div>
